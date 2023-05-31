@@ -1,0 +1,3 @@
+# Operador Ternário
+
+# Em construção
