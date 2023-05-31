@@ -94,4 +94,4 @@ O código necessário para resolver o problema descrito acima é o seguinte:
 
 Colocando em prática o conhecimento apresentado sobre Operador Ternário, vamos para uma pequena lista de exercícios.
 
-## 
+## [**<u>Clique aqui para acessar a Lista de Exercícios</u>**](03_02_01_listaExercicios/README.md)

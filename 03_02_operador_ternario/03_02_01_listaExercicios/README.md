@@ -63,3 +63,9 @@ Faça um programa que peça para o usuário informar as despesas relacionadas co
 Também peça para o usuário informar o valor que recebe de remuneração mensal (salário), proveniente da sua atuação profissional.
 
 Verifique se o usuário ganha mais do que recebe e apresente em tela, indicando quanto que sobrou após o pagamento das contas ou quanto que faltou para poder pagar todas as contas previstas.
+
+#
+
+## **Se você concluiu a Lista de Exercícios, Parabéns! Você já pode prosseguir para o próximo conteúdo!**
+
+### Dando continuidade sobre _**Estrutura de Decisão**_, o próximo tema será o **_Switch-Case_**. Para acessar o conteúdo, [**CLIQUE AQUI**](../../03_03_switch_case/README.md).
